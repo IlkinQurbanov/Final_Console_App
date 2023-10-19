@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\obj\Debug\net6.0\F_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\obj\Debug\net6.0\F_Console_App.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\obj\Debug\net6.0\F_Console_App.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\obj\Debug\net6.0\F_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\bin\Debug\net6.0\F_Console_App.exe
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\bin\Debug\net6.0\F_Console_App.deps.json
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\bin\Debug\net6.0\F_Console_App.runtimeconfig.json
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\bin\Debug\net6.0\F_Console_App.dll
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\bin\Debug\net6.0\F_Console_App.pdb
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\obj\Debug\net6.0\F_Console_App.dll
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\obj\Debug\net6.0\refint\F_Console_App.dll
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\obj\Debug\net6.0\F_Console_App.pdb
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\obj\Debug\net6.0\F_Console_App.genruntimeconfig.cache
+C:\Users\ilkin\source\repos\F_Console_App\F_Console_App\obj\Debug\net6.0\ref\F_Console_App.dll
